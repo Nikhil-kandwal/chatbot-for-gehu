@@ -1,9 +1,9 @@
 from tkinter import *
 from chat import get_response, bot_name
 
-BG_GRAY = "#3582c4"
-BG_COLOR = "#17202A"
-TEXT_COLOR = "#EAECEE"
+BG_GRAY = "#1ed14b"
+BG_COLOR = "#c5e9ed"
+TEXT_COLOR = "#b32d2e"
 
 FONT = "Times 16"
 FONT_BOLD = "Times 18 bold"
